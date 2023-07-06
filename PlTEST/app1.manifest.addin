@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	
+	<AddIn Type="Application">
+		<Name> ElementInfo</Name>
+		<Assembly>PlTEST.dll</Assembly>
+		<AddInId>4962DD4B-5D1A-400C-BA0A-2DE9798C3644</AddInId>
+		<FullClassName>PlTEST.Applicationcs</FullClassName>
+		<VisibilityMode>NotVisibelWhenNoActiveDocument</VisibilityMode>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
